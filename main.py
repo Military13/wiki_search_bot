@@ -4,7 +4,7 @@ from libs.message import messages
 import wikipedia as wk
 from telebot.apihelper import ApiTelegramException
 from wikipedia.exceptions import PageError
-BOT_TOKEN = "<YOUR_TOKEN_HERE>"
+BOT_TOKEN = "1941961583:AAEcYelKDYpuuuEDBbc1NPrP1QQBiz-Nzv8"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 @bot.message_handler(commands=["start"])
