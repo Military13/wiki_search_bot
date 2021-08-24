@@ -7,11 +7,17 @@ Simple wikipedia search telegram bot from [Azizbek Developer](https://azizbekpor
 git clone https://github.com/azizbekQozoqov/wiki_search_bot.git
 ```
 
+## install _**pyTelegramBotAPI**_ package
+
+```bash
+pip install pyTelegramBotAPI
+```
 ## install _**wikipedia**_ package
 
 ```bash
 pip install wikipedia
 ```
+
 
 ## Create bot from [Telegram @BotFather](https://t.me/botfather "Botfather") and copy bot token
 
